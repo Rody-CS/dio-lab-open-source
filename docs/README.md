@@ -1,27 +1,28 @@
-<h1>
-    <a href="https://www.dio.me/">
-     <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
-    <span> Profiles README DIO</span>
-</h1>
+# Olá, sou [Seu Nome] 👋
 
-## Sobre o Projeto
-Página desenvolvida para fins didáticos para o curso **Contribuindo em um Projeto Open Source no GitHub** da [Digital Innovation One](https://www.dio.me/). Lembre-se de que Markdown é mais voltado para a documentação e apresentação de texto formatado, enquanto a remoção de bugs normalmente envolve a compreensão detalhada do código e o uso de ferramentas de desenvolvimento adequadas à linguagem de programação específica.
+## 🚀 Sobre Mim
+- 📚 Estudo Análise e Desenvolvimento de Sistemas
+- 👨‍💻 Desenvolvedor back-end com Java e Spring
+- 🌱 Atualmente aprendendo sobre APIs RESTful
+- 📧 Você pode me encontrar em: [email@dominio.com](mailto:email@dominio.com)
 
-[![Preview](https://img.shields.io/badge/Preview-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://digitalinnovationone.github.io/dio-lab-open-source/)
+## 🛠 Tecnologias que utilizo
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java&logoColor=E94D5F)
+![Spring](https://img.shields.io/badge/Spring-000?style=for-the-badge&logo=spring&logoColor=6DB33F)
 
-```
-docs/
-├── assets/
-│   ├── css/
-│   │   └── styles.css
-│   └── js/
-│       └── scripts.js
-├── favicon.ico
-├── index.html
-└── README.md
-```
+## 🌍 Conecte-se comigo
+- [LinkedIn](https://www.linkedin.com/in/seu-perfil/)
+- [GitHub](https://github.com/seu-username)
 
-## Tecnologias
-![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
-![CSS](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css3&logoColor=E94D5F)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=30A3DC)
+## Como Contribuir
+
+1. Faça um **fork** deste repositório
+2. **Clone** o repositório para sua máquina local
+3. Crie uma nova branch com o nome `feat/community/SEU_USERNAME`
+4. Adicione seu Profile README dentro da pasta `community/`
+5. Crie um **commit** com uma mensagem clara
+6. Envie suas alterações para o seu repositório remoto
+7. Abra um **Pull Request** para o repositório original
+
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+![License](https://img.shields.io/badge/license-MIT-blue)
